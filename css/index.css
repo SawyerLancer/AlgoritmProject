@@ -1,0 +1,71 @@
+body{
+  background: #698bef;
+}
+div.autorization{
+    background:#f7f4f4;
+    height: 22em;
+    max-width:50em;
+    margin:0px auto;
+    top:40%;
+    position: relative;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+div.image{
+    width: 100%;
+    height: 5em;
+    margin:0 auto;
+    padding:0;
+
+}
+img{
+    width: 4em;
+    height: 4em;
+    border-radius: 50px;
+    border: solid 2px;
+    display: inline-block;
+    margin: 0;
+
+}
+div.input-text{
+    width: 100%;
+    height: 3.5em;
+    margin: 1em auto;
+    padding: 0  7em;
+}
+div.input-button{
+    width: 100%;
+    height: 3.5em;
+    margin: 0 auto;
+    padding: 0 10vh;
+}
+input[type="text"]{
+    outline: none;
+    background: none;
+    padding: 3px;
+    border-radius: 5px;
+    border: 2px solid #bfbebe ;
+    width: 100%;
+    height: 2em;
+    text-align: center;
+    font-size: 2em;
+    color: #959595;
+
+}
+button.button{
+    outline: none;
+    border-radius:9px;
+    color: white;
+    background:#698bef;
+    width: 100%;
+    height: 2em;
+    font-size: 2em;
+
+}
+
+div.block{
+    display: inline-block;
+    width: 100%;
+    margin:0px;
+    padding: 0px 10%;
+}
